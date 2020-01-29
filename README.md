@@ -1,2 +1,2 @@
-# Basics-of-Python-and-Numpy
-Tutorial on Python and Numpy
+# 1. Basics-of-Python-and-Numpy
+# 2. Multivariate-Linear-Regression
